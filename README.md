@@ -1,4 +1,4 @@
-# FIZZ BUZZ with emoji code challange
+# FIZZ BUZZ with emojicode challange
 
 How to start
 
