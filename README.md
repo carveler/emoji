@@ -14,17 +14,32 @@ How to start
 Steps
 
 1. What do i need to know to code in Fizz Buzz in new language? =>  
-   print  
-   `🏁 🍇 😀 🔤Hello, world!🔤❗️ 🍉`  
-   if else  
-   `↪️ a ▶️ b 🍇 😀 🔤a is greater than b🔤❗️ 🍉 🙅↪️ a 🙌 b 🍇 😀 🔤a is equal to b🔤❗️ 🍉 🙅 🍇 😀 🔤a is smaller than b🔤❗️ 🍉`  
-   loop  
-   `🔂 i 🆕⏩ 0 10❗️ 🍇 😀 🔡 i❗️❗️ 💭 Prints numbers 0 through 9 (including). 🍉`  
-   equality =>  
-   `🙌 other 🔢 ➡️ 👌`
-   other T is allowed and defines equality between two different type  
-   remainder operator =>  
+   **print**
+
+   ````🏁 🍇
+        😀 🔤Hello, world!🔤❗️
+      🍉```
+   **if else**
+   ```↪️ a ▶️ b 🍇
+        😀 🔤a is greater than b🔤❗️
+      🍉
+      🙅↪️ a 🙌 b 🍇
+        😀 🔤a is equal to b🔤❗️
+      🍉
+      🙅 🍇
+        😀 🔤a is smaller than b🔤❗️
+      🍉```
+   **loop**
+   ```🔂 i 🆕⏩ 0 10❗️ 🍇
+        😀 🔡 i❗️❗️ 💭 Prints numbers 0 through 9 (including).
+      🍉```
+   **equality**
+   ```🙌 other 🔢 ➡️ 👌```
+   other T is allowed and defines equality between two different type
+   **remainder operator**
    🚮: modulo (divides and gives the remainder)
+
+   ````
 
 1. Let's Implement these!
 
