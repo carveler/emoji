@@ -13,16 +13,19 @@ How to start
 
 Steps
 
-1. What do i need to know to code in Fizz Buzz in new language? =>  
-   **print**
+1. What do i need to know to code in Fizz Buzz in new language? =>
 
-   ````🏁 🍇
+   - **print**
+
+   ```🏁 🍇
         😀 🔤Hello, world!🔤❗️
       🍉
-    ```
-   **if else**
+   ```
 
-   ```↪️ a ▶️ b 🍇
+   - **if else**
+
+   ```
+   ↪️ a ▶️ b 🍇
         😀 🔤a is greater than b🔤❗️
       🍉
       🙅↪️ a 🙌 b 🍇
@@ -30,25 +33,27 @@ Steps
       🍉
       🙅 🍇
         😀 🔤a is smaller than b🔤❗️
-      🍉```
+      🍉
+   ```
 
-   **loop**
+   - **loop**
 
    ```🔂 i 🆕⏩ 0 10❗️ 🍇
         😀 🔡 i❗️❗️ 💭 Prints numbers 0 through 9 (including).
-      🍉```
+      🍉
+   ```
 
-   **equality**
+   - **equality**
 
-   ```🙌 other 🔢 ➡️ 👌```
+   ```
+   🙌 other 🔢 ➡️ 👌
+   ```
 
    other T is allowed and defines equality between two different type
 
-   **remainder operator**
+   - **remainder operator**
 
    🚮: modulo (divides and gives the remainder)
-
-   ````
 
 1. Let's Implement these!
 
