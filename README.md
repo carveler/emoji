@@ -15,7 +15,7 @@ Steps
 
 1. What do i need to know to code in Fizz Buzz in new language? =>
 
-   **print**
+   - **print**
 
    ```
    🏁 🍇
