@@ -7,7 +7,7 @@ How to start
    Then run this command. <br />
    `$ emojicodec fizzbuzz.emojic ./fizzbuzz` <br />
    You can also do it separately <br />
-   compile with `$ emojicodec fizzbuzz.emojic' <br /> and excute with `$ ./fizzbuzz' <br />
+   compile with `$ emojicodec fizzbuzz.emojic'<br /> and excute with `$ ./fizzbuzz' <br />
 
 Steps
 
