@@ -3,6 +3,7 @@
 How to start
 
 1. Install [Emojicode](http://www.emojicode.org/docs/guides/install.html)!
+1. Clone or Folk Repository
 1. Open a command-line and navigate to the directory containing fizzbuzz.emojic. <br />
    Then run this command. <br />
    `$ emojicodec fizzbuzz.emojic ./fizzbuzz` <br />
