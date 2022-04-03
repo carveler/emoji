@@ -53,6 +53,12 @@ Steps
 
    other T is allowed and defines equality between two different type
 
+   - **Short-Circuiting && **
+
+   ```
+    🤝
+   ```
+
    - **remainder operator**
 
    ```
